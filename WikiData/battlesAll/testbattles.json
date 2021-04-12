@@ -1,0 +1,82 @@
+[
+    {
+        "battle": "http://www.wikidata.org/entity/Q63431",
+        "battleLabel": "Invasion of Martinique",
+        "coordinate_location": "Point(-61.0 14.67)",
+        "point_in_time": "1762-02-12T00:00:00Z",
+        "part_of": "http://www.wikidata.org/entity/Q33143",
+        "part_ofLabel": "Seven Years' War"
+    },
+    {
+        "battle": "http://www.wikidata.org/entity/Q38789",
+        "battleLabel": "Battle of Stalingrad",
+        "coordinate_location": "Point(44.516666666 48.7)",
+        "point_in_time": "1943-02-02T00:00:00Z",
+        "part_of": "http://www.wikidata.org/entity/Q362",
+        "part_ofLabel": "World War II"
+    },
+    {
+        "battle": "http://www.wikidata.org/entity/Q116004",
+        "battleLabel": "Battle of Shipka Pass",
+        "coordinate_location": "Point(25.316667 42.766667)",
+        "point_in_time": "1877-01-01T00:00:00Z",
+        "part_of": "http://www.wikidata.org/entity/Q174205",
+        "part_ofLabel": "Russo-Turkish War of 1877–78"
+    },
+    {
+        "battle": "http://www.wikidata.org/entity/Q13190",
+        "battleLabel": "Battle of Bolia",
+        "coordinate_location": "Point(18.05 47.683333)",
+        "point_in_time": "0469-01-01T00:00:00Z",
+        "part_of": "http://www.wikidata.org/entity/Q2592334",
+        "part_ofLabel": "Germanic Wars"
+    },
+    {
+        "battle": "http://www.wikidata.org/entity/Q94545",
+        "battleLabel": "Siege of Glatz",
+        "coordinate_location": "Point(16.67 50.433)",
+        "point_in_time": "1760-07-26T00:00:00Z",
+        "part_of": "http://www.wikidata.org/entity/Q33143",
+        "part_ofLabel": "Seven Years' War"
+    },
+    {
+        "battle": "http://www.wikidata.org/entity/Q118951",
+        "battleLabel": "Battle of Meloria",
+        "coordinate_location": "Point(9.97558611 43.31718611)",
+        "point_in_time": "1284-08-13T00:00:00Z",
+        "part_of": "http://www.wikidata.org/entity/Q62825",
+        "part_ofLabel": "maritime republics"
+    },
+    {
+        "battle": "http://www.wikidata.org/entity/Q48314",
+        "battleLabel": "Battle of Waterloo",
+        "coordinate_location": "Point(4.412 50.68)",
+        "point_in_time": "1815-06-18T00:00:00Z",
+        "part_of": "http://www.wikidata.org/entity/Q78994",
+        "part_ofLabel": "Napoleonic Wars"
+    },
+    {
+        "battle": "http://www.wikidata.org/entity/Q32198",
+        "battleLabel": "Battle of Gloucester",
+        "coordinate_location": "Point(-70.6637 42.6064)",
+        "point_in_time": "1775-01-01T00:00:00Z",
+        "part_of": "http://www.wikidata.org/entity/Q40949",
+        "part_ofLabel": "American Revolutionary War"
+    },
+    {
+        "battle": "http://www.wikidata.org/entity/Q73105",
+        "battleLabel": "Battle of Westkapelle",
+        "coordinate_location": "Point(3.58 51.52)",
+        "point_in_time": "1253-07-11T00:00:00Z",
+        "part_of": "http://www.wikidata.org/entity/Q945071",
+        "part_ofLabel": "War of the Flemish Succession"
+    },
+    {
+        "battle": "http://www.wikidata.org/entity/Q3956",
+        "battleLabel": "Battle of Jarama",
+        "coordinate_location": "Point(-3.50403333 40.2179)",
+        "point_in_time": "1937-01-01T00:00:00Z",
+        "part_of": "http://www.wikidata.org/entity/Q10859",
+        "part_ofLabel": "Spanish Civil War"
+    }
+]
